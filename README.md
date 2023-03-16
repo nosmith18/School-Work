@@ -13,3 +13,5 @@ Java based course covering more advanced logic, data structures, and algorithms 
 ## CS 577 - Algorithms
 
 If you took Hell and converted it into word problems requiring the most theoretical, edge case, mind mincing solutions currently known to man in the CS realm... these small projects are something random they made us do -> https://github.com/nosmith18/CS300. The actual class material was strictly worksheets and pseudocode theory
+
+## More to come... but I have to make 4 March Madness brackets by 10am :)
